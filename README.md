@@ -1,7 +1,7 @@
 ### Hi everyone⚡
-### Welcome to my Portfolio
+ ## Welcome to my Portfolio
  If u want to contact me:
- Discord TeJota#1912
+-  Discord TeJota#1912
 <!--
 **Merces-dev/Merces-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
