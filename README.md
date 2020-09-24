@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Merces-dev&theme=synthwave&show_icons=true" />
 </a>
 <a href="https://github.com/Merces-dev/convoychat">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merces-dev" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merces-dev&theme=synthwave" />
 </a>
