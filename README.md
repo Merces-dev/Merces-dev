@@ -1,7 +1,8 @@
 ### Hi everyone⚡
  ## Welcome to my Portfolio
  If u want to contact me:
--  Discord TeJota#1912
+-  Discord: TeJota#1912
+-
 <!--
 **Merces-dev/Merces-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/Merces-dev/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Merces-dev&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Merces-dev&theme=synthwave&show_icons=true" />
 </a>
 <a href="https://github.com/Merces-dev/convoychat">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merces-dev" />
