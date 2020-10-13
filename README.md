@@ -3,7 +3,7 @@
  If u want to contact me:
 -  Discord: TeJota#1912
 <br>
-<p align="center">
+<p align="left">
   <a href="https://github.com/Merces-dev" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
   </a>
