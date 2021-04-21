@@ -1,7 +1,7 @@
 ### Hi everyone⚡
 #### Welcome to my Portfolio
  If u want to contact me:
--  Discord: TeJota#1912
+-  Discord: TeJota#6056
 <br>
 <p align="left">
   <a href="https://github.com/Merces-dev" alt="GitHub">
