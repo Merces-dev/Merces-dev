@@ -12,9 +12,3 @@ Contacts =>
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
  <br>
- <a href="https://github.com/Merces-dev/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Merces-dev&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/Merces-dev/convoychat">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merces-dev&layout=compact&theme=synthwave" />
-</a>
