@@ -1,6 +1,5 @@
 ### Hi everyone⚡
-#### Welcome to my Portfolio
-Contacts =>
+Contacts
 -  Email: giovanitjs@gmail.com
 -  Discord: TeJota#6056
 <br>
