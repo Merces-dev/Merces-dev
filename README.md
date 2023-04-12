@@ -1,5 +1,4 @@
 ### Hi everyone⚡
-Contacts
 -  Email: giovanitjs@gmail.com
 -  Discord: TeJota#6056
 -  <a href="https://www.linkedin.com/in/giovani-merces-da-silva-b1a592191/" alt="LinkedIn">
