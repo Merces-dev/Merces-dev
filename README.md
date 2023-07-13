@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Giovani</h1>
 <h3 align="center">A full stack developer</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merces-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Merces-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merces-dev&theme=dark" alt="Merces-dev" /></p>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=merces-dev&label=Profile%20views&color=0e75b6&style=flat"
@@ -20,7 +22,3 @@
     />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merces-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Merces-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merces-dev&theme=dark" alt="Merces-dev" /></p>
