@@ -21,6 +21,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merces-dev&show_icons=true&locale=en&layout=compact" alt="Merces-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Merces-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Merces-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merces-dev&" alt="Merces-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merces-dev&theme=dark" alt="Merces-dev" /></p>
